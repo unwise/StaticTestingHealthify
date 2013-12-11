@@ -21,10 +21,7 @@ h6 {
   font-weight: 400;
   font-family: "Helvetica-Bold";
 }
-.socialworker {
-    margin:0 auto;
-    text-align:center;
-}
+
 .featured-badge{
         color:#222222;
 		width:100%;
@@ -262,6 +259,7 @@ color: #000000;
 line-height: 96px;
 margin-top:0px;
 }
+
 .paragraphmain {
 font-family: "Helvetica-Light";
 max-width:50%;
